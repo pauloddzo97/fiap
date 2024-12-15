@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Rubik;
+    box-sizing: border-box;
+}
+
+.bg-greenlime{
+    background: rgb(69,255,177);
+    background: linear-gradient(180deg, rgba(69,255,177,1) 45%, rgba(97,255,22,1) 100%);
+}
+
+.div-ghost{
+    height: 50%;
+}
+
+.mg-top{
+    margin-top: 40px;
+}
+.mg50{
+    margin: 50px;
+}
+.botoes{
+    margin: 20px;
+    text-align: center;
+    font-size: 40px;
+    color:green;
+    padding: 20px;
+    border: 1px solid green;
+    border-radius: 15px;
+}
